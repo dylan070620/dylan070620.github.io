@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BOWEI</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-06-09T06:43:22.907Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Dylan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/06/03/hello-world/"/>
+    <id>http://example.com/2024/06/03/hello-world/</id>
+    <published>2024-06-03T06:00:31.427Z</published>
+    <updated>2024-06-09T06:43:22.907Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是我的第一个博客"><a class="markdownIt-Anchor" href="#这是我的第一个博客">#</a> 这是我的第一个博客</h1><p>不错的</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;这是我的第一个博客&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#这是我的第一个博客&quot;&gt;#&lt;/a&gt; 这是我的第一个博客&lt;/h1&gt;
+&lt;p&gt;不错的&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

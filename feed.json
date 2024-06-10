@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BOWEI",
+    "description": "this is my blogs",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2024/06/03/hello-world/",
+            "url": "http://example.com/2024/06/03/hello-world/",
+            "title": "",
+            "date_published": "2024-06-03T06:00:31.427Z",
+            "content_html": "<h1 id=\"这是我的第一个博客\"><a class=\"markdownIt-Anchor\" href=\"#这是我的第一个博客\">#</a> 这是我的第一个博客</h1>\n<p>不错的</p>\n",
+            "tags": []
+        }
+    ]
+}
